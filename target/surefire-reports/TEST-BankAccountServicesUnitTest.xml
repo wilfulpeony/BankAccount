@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="BankAccountServicesUnitTest" time="0.119" tests="32" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="D:\BankAccount\target\test-classes;D:\BankAccount\target\classes;C:\Users\Krogan\.m2\repository\javax\servlet\javax.servlet-api\3.0.1\javax.servlet-api-3.0.1.jar;C:\Users\Krogan\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\Krogan\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Krogan\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\Krogan\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\Krogan\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Krogan\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\Krogan\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.4.0\junit-jupiter-params-5.4.0.jar;"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.jetbrains.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="user.country.format" value="UA"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\jbr\bin"/>
+    <property name="sun.java.command" value="C:\Users\Krogan\AppData\Local\Temp\surefire15005295184442863114\surefirebooter15355123365564395426.jar C:\Users\Krogan\AppData\Local\Temp\surefire15005295184442863114 2020-03-07T22-48-52_180-jvmRun1 surefire2517513122678678770tmp surefire_010205363958914941717tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\BankAccount\target\test-classes;D:\BankAccount\target\classes;C:\Users\Krogan\.m2\repository\javax\servlet\javax.servlet-api\3.0.1\javax.servlet-api-3.0.1.jar;C:\Users\Krogan\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\Krogan\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Krogan\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\Krogan\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\Krogan\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Krogan\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\Krogan\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.4.0\junit-jupiter-params-5.4.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Krogan"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-10-15"/>
+    <property name="java.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\jbr"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\BankAccount"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Krogan\AppData\Local\Temp\surefire15005295184442863114\surefirebooter15355123365564395426.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.5+10-b520.30"/>
+    <property name="user.name" value="Krogan"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Krogan\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://youtrack.jetbrains.com"/>
+    <property name="java.io.tmpdir" value="C:\Users\Krogan\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.5"/>
+    <property name="user.dir" value="D:\BankAccount"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\jbr\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Krogan\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="idea.version2019.3.2" value="true"/>
+    <property name="java.vendor" value="JetBrains s.r.o"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vm.version" value="11.0.5+10-b520.30"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="verifyWithdrawServiceWithValidData{String}[1]" classname="BankAccountServicesUnitTest" time="0.029"/>
+  <testcase name="verifyWithdrawServiceWithValidData{String}[2]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUniqueAccountCreation{String}[1]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUniqueAccountCreation{String}[2]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyWithdrawForNonOverdraftAccountPartThree{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanPutMoneyOnBasicAccount{double}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanPutMoneyOnBasicAccount{double}[2]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanPutMoneyOnBasicAccount{double}[3]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanPutMoneyOnBasicAccount{double}[4]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanPutMoneyOnBasicAccount{double}[5]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanPutMoneyOnBasicAccount{double}[6]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyWithdrawForOverdraftAccountPartOne{String}[1]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyWithdrawForOverdraftAccountPartTwo{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanCreateAccountWithValidData{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanCreateAccountWithValidData{String}[2]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyWithdrawForOverdraftAccountPartFour{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyWithdrawForNonOverdraftAccountPartFive{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyWithdrawForNonOverdraftAccountPartFour{String}[1]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCantGetUnvalidAccountInfo{String}[1]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCantGetUnvalidAccountInfo{String}[2]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyWithdrawForNonOverdraftAccountPartOne{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyWithdrawForNonOverdraftAccountPartTwo{String}[1]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanPutMoneyOnOverdraftAccount{double}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanPutMoneyOnOverdraftAccount{double}[2]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanPutMoneyOnOverdraftAccount{double}[3]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanPutMoneyOnOverdraftAccount{double}[4]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanPutMoneyOnOverdraftAccount{double}[5]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanPutMoneyOnOverdraftAccount{double}[6]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyWithdrawForOverdraftAccountPartThree{String}[1]" classname="BankAccountServicesUnitTest" time="0"/>
+  <testcase name="verifyUserCanGetAccountInfo{String}[1]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyUserCanGetAccountInfo{String}[2]" classname="BankAccountServicesUnitTest" time="0.001"/>
+  <testcase name="verifyInvalidInputsForOpeningAccounts" classname="BankAccountServicesUnitTest" time="0.001"/>
+</testsuite>
