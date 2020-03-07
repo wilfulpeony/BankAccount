@@ -1,6 +1,6 @@
 1. Download two projects: **BDDTest and BankAccount**
 
-2. Install maven and java
+2. Install maven and java JDK
 
 3. Run command "mvn clean test" on project BankAccount to start Unit Tests
 
