@@ -1,6 +1,6 @@
 Feature: Jira plugin play around
 
-  @XRAY-2
+  @XRAY-2 @MANUAL
   Scenario: User login to system
     Given user doesn't have any account
     When user opens jira project
